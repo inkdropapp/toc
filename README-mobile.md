@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/toc`](https://github.com/inkdropapp/plugins/tree/main/packages/toc). It is archived and read-only; please open issues and pull requests there.
-
 It allows you to create table of contents using [remark-toc](https://github.com/remarkjs/remark-toc).
 
 ![example](https://raw.githubusercontent.com/inkdropapp/inkdrop-toc/master/docs/example.png)
